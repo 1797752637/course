@@ -148,9 +148,12 @@ strike {
     background-size: cover;
 }
 
+footer {
+    height:40px;
+}
+
 footer p {
     font-size: 12px;
-    height:40px;
 }
 
 #kaygb-blog-a,
